@@ -17,6 +17,12 @@
       "name": "Turn in homework",
       "complete": false,
       "tag": "math"
+    },
+    {
+      "id": 4,
+      "name": "Finish project",
+      "complete": true,
+      "tag": "programming"
     }
   ]
 }
